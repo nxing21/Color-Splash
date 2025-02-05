@@ -4,10 +4,12 @@ A personal project I completed. See ColorSplash.docx for details about the proje
 How to use it?
 
 ![Splash1](https://github.com/user-attachments/assets/c7adaaa0-c530-4772-a774-21ec153392f5)
+
 Menu:
 1.	Load image: load image file to edit
 2.	Add color: pick another color to current selection(s)
 3.	Clear all: re-start from original image
+
 Tolerance bar: Adjust threshold of color tolerance for every single color. Selected color is displayed by the side of tolerance bar.
 
 Fill hole: fill holes or not in the selected colors
