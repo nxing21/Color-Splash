@@ -9,6 +9,7 @@ Menu:
 2.	Add color: pick another color to current selection(s)
 3.	Clear all: re-start from original image
 Tolerance bar: Adjust threshold of color tolerance for every single color. Selected color is displayed by the side of tolerance bar.
+
 Fill hole: fill holes or not in the selected colors
 
 Example1: Single-color splash
